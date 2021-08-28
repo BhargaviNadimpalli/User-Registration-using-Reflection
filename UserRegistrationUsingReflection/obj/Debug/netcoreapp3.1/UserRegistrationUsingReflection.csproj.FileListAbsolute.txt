@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\UserRegistrationUsingReflection\UserRegistrationUsingReflection\bin\Debug\netcoreapp3.1\UserRegistrationUsingReflection.exe
+C:\Users\HP\source\repos\UserRegistrationUsingReflection\UserRegistrationUsingReflection\bin\Debug\netcoreapp3.1\UserRegistrationUsingReflection.deps.json
+C:\Users\HP\source\repos\UserRegistrationUsingReflection\UserRegistrationUsingReflection\bin\Debug\netcoreapp3.1\UserRegistrationUsingReflection.runtimeconfig.json
+C:\Users\HP\source\repos\UserRegistrationUsingReflection\UserRegistrationUsingReflection\bin\Debug\netcoreapp3.1\UserRegistrationUsingReflection.runtimeconfig.dev.json
+C:\Users\HP\source\repos\UserRegistrationUsingReflection\UserRegistrationUsingReflection\bin\Debug\netcoreapp3.1\UserRegistrationUsingReflection.dll
+C:\Users\HP\source\repos\UserRegistrationUsingReflection\UserRegistrationUsingReflection\bin\Debug\netcoreapp3.1\UserRegistrationUsingReflection.pdb
+C:\Users\HP\source\repos\UserRegistrationUsingReflection\UserRegistrationUsingReflection\obj\Debug\netcoreapp3.1\UserRegistrationUsingReflection.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\UserRegistrationUsingReflection\UserRegistrationUsingReflection\obj\Debug\netcoreapp3.1\UserRegistrationUsingReflection.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\UserRegistrationUsingReflection\UserRegistrationUsingReflection\obj\Debug\netcoreapp3.1\UserRegistrationUsingReflection.AssemblyInfo.cs
+C:\Users\HP\source\repos\UserRegistrationUsingReflection\UserRegistrationUsingReflection\obj\Debug\netcoreapp3.1\UserRegistrationUsingReflection.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\UserRegistrationUsingReflection\UserRegistrationUsingReflection\obj\Debug\netcoreapp3.1\UserRegistrationUsingReflection.dll
+C:\Users\HP\source\repos\UserRegistrationUsingReflection\UserRegistrationUsingReflection\obj\Debug\netcoreapp3.1\UserRegistrationUsingReflection.pdb
+C:\Users\HP\source\repos\UserRegistrationUsingReflection\UserRegistrationUsingReflection\obj\Debug\netcoreapp3.1\UserRegistrationUsingReflection.genruntimeconfig.cache
