@@ -8,18 +8,14 @@ namespace UserRegistrationUsingReflection
     public class User
     {
         string namePattern = "^[A-Z]{1}[A-Za-z]{2,}$";
-        /// <summary>
-        /// UC - 1  Validating the First Name
-        /// </summary>
+        
         public bool ValidateFirstName(string firstName)
         {
             Regex regex = new Regex(namePattern);
             bool result = regex.IsMatch(firstName);
             return result;
         }
-        /// <summary>
-        /// UC - 2  Validating the Last Name
-        /// </summary>
+        
         public bool ValidateLastName(string lastName)
         {
             Regex regex = new Regex(namePattern);
@@ -28,9 +24,7 @@ namespace UserRegistrationUsingReflection
         }
         //Pattern for validating the email
         string emailPattern = "^[A-Za-z0-9]+([._+-][A-Za-z0-9]+)*@[0-9A-Za-z]+.[a-zA-Z]{2,3}(.[a-zA-Z]{2,3})?$";
-        /// <summary>
-        /// UC - 3,9  Validating the Email
-        /// </summary>
+        
         public bool ValidateEmail(string email)
         {
             Regex regex = new Regex(emailPattern);
@@ -39,9 +33,7 @@ namespace UserRegistrationUsingReflection
         }
         //Pattern for validating the Mobile Number
         string numberPattern = "^[1-9]{1}[0-9]{0,3}\\s[1-9]{1}[0-9]{9}$";
-        /// <summary>
-        /// UC - 4  Validating the Mobile Number
-        /// </summary>
+        
         public bool ValidateMobileNumber(string mobileNumber)
         {
             Regex regex = new Regex(numberPattern);
@@ -50,9 +42,7 @@ namespace UserRegistrationUsingReflection
         }
         //Pattern for validating the password
         string passwordPattern = "^(?=.*[A-Z])(?=.*[0-9])(?=[\\w]*[\\W][\\w]*$)[A-Za-z1-9.@!#$&%^*]{8,}";
-        /// <summary>
-        /// UC - 5,6,7,8  Validating the Password
-        /// </summary>
+        
         public bool ValidatePassword(string password)
         {
             Regex regex = new Regex(passwordPattern);
