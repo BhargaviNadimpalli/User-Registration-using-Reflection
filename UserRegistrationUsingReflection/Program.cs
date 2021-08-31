@@ -31,7 +31,7 @@ namespace UserRegistrationUsingReflection
                         if (result)
                             Console.WriteLine("It is valid");
                         else
-                            Console.WriteLine("It is not valid");
+                            Console.WriteLine("It is not valid");         
                         break;
                     case 2:
                         Console.WriteLine("Enter last name : ");
